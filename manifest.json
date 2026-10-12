@@ -1,0 +1,12 @@
+{
+  "name": "همراه من | پلنر زندگی و کسب‌وکار",
+  "short_name": "همراه من",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ff",
+  "theme_color": "#f0eaff",
+  "description": "پلنر فارسی مدیریت زندگی، کارها، مالی و کسب‌وکار"
+}
